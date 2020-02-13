@@ -1,6 +1,5 @@
 # EstudoCShaps
-<h1><strong>Programa simples de controle de Pets para estudo da linguagem CShap.
-Os tópicos estudados nesse mini projeto foram:</strong></h1>
+<h1><strong>Programa simples de controle de Pets para estudo da linguagem CShap.</strong></h1>
 <h2>Os tópicos estudados nesse mini projeto foram:</h2>
 <ol>
   <li>Sintax da Linguagem C#</li>
