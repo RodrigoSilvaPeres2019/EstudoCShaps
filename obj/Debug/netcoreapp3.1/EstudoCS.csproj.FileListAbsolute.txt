@@ -1,0 +1,11 @@
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/bin/Debug/netcoreapp3.1/EstudoCS
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/bin/Debug/netcoreapp3.1/EstudoCS.deps.json
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/bin/Debug/netcoreapp3.1/EstudoCS.runtimeconfig.json
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/bin/Debug/netcoreapp3.1/EstudoCS.runtimeconfig.dev.json
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/bin/Debug/netcoreapp3.1/EstudoCS.dll
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/bin/Debug/netcoreapp3.1/EstudoCS.pdb
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/obj/Debug/netcoreapp3.1/EstudoCS.csprojAssemblyReference.cache
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/obj/Debug/netcoreapp3.1/EstudoCS.AssemblyInfoInputs.cache
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/obj/Debug/netcoreapp3.1/EstudoCS.AssemblyInfo.cs
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/obj/Debug/netcoreapp3.1/EstudoCS.dll
+/home/rodrigo_peres/Área de Trabalho/estudos/EstudoCS/obj/Debug/netcoreapp3.1/EstudoCS.pdb
